@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BrewTools">
+    <output-path>$PROJECT_DIR$/out/artifacts/BrewTools</output-path>
+    <root id="archive" name="BrewTools.jar">
+      <element id="module-output" name="BrewTools" />
+    </root>
+  </artifact>
+</component>

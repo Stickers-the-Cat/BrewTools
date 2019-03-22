@@ -1,0 +1,5 @@
+name: BrewTools
+version: 0.0.001
+author: Stickers The Cat
+main: com.stickersthecat.BrewTools.BrewTools
+api-version: 1.13

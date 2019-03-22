@@ -1,0 +1,10 @@
+ListMOTD: []
+ChatMOTD:
+  - I am a test
+  - I am also a test
+Commands:
+  heroesRaceFix:
+    enabled: true #required
+    runOnce: true
+    cmd: hero admin race {PLAYER_NAME} Human #never use a / for commands
+    delay: 100 # 20 = 1 second
